@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Iyed</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
-- 💬 Ask me about **Spring, Java, Angular**
 
-- 📫 How to reach me **chaabaneiyed@gmail.com**
+
+* 🔭 I’m currently look about **job**
+
+* 🌱 Learning all about **Web development and DevOps**
+ 
+* 💬 Ask me about **Spring, Java, Angular**
+
+* 📫 How to reach me **chaabaneiyed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
