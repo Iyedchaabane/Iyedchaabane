@@ -104,8 +104,7 @@ I'm a **Full Stack Engineer** from Tunisia with 2+ years of experience building 
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iyedchaabane&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Iyedchaabane&theme=tokyonight&hide_border=true&v=1)
-
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Iyedchaabane&theme=dracula )](https://github.com/Pranesh-2005/github-readme-stats-fast )
 ---
 
 ## 🌟 Professional Highlights
