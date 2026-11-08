@@ -190,9 +190,9 @@ I enjoy solving problems at the intersection of **reliable backend services**, *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyedchaabane&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Iyedchaabane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyedchaabane&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iyedchaabane&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
