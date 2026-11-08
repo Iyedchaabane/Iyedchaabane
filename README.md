@@ -129,6 +129,7 @@ Outside production work, I build hands-on projects involving **Spring Cloud micr
 - **Stack:** Java 17, Spring Boot, Spring Security, Angular 17, JWT, WebSockets, OpenAPI
 - **Features:** Book discovery, ratings, borrowing and returns, reservation waiting lists, and notifications
 - **Engineering:** Email activation/password reset, pagination, file uploads, and real-time notification delivery
+- **🎬 Video demo:** [Watch the complete application walkthrough](https://www.youtube.com/watch?v=XEUTdd2zWk8)
 
 ### 💰 [Finance Tracking Web App](https://github.com/Iyedchaabane/Finance-Tracking-Web-App)
 
